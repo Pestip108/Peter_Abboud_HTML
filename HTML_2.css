@@ -1,0 +1,35 @@
+body {
+                background-color: #f0f0f0;
+            }
+            #back {
+                background-color: #3d44ce;
+                color: #fff;
+                text-decoration: none;
+                cursor: pointer;
+                border-radius: 5px;
+            }
+            header {
+                background-color: #fff;
+            }
+            menu {
+                width: 400px;
+            }
+            #code {
+                position: absolute;
+                top: 100px;
+                left: 600px;
+                width: 600px;
+                height: 300px;
+            }
+            #list {
+                position: absolute;
+                left: 575px;
+                top: 400px;
+            }
+            footer {
+                position: absolute;
+                top: 575px;
+                left: 10px;
+                width: 1350px;
+                background-color: #fff;
+            }
